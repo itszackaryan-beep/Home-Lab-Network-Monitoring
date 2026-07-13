@@ -61,7 +61,7 @@ network.
 
 **Figure 1 — VMware Lab Environment (VM Library)**
 
-![VMware Lab Environment](docs/Screenshots/fig01-vmware-lab-environment-vm-library.jpg)
+![VMware Lab Environment](docs/fig01-vmware-lab-environment-vm-library.jpg)
 
 **Description:** The VirtualBox environment showing Windows Server 2022 and Kali Linux
 virtual machines successfully configured and running.
