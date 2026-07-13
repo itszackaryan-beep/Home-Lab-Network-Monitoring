@@ -336,7 +336,7 @@ Home-Lab-Network-Monitoring/
 │
 └── docs/
     ├── Home_Lab_Network_Monitoring_Report.pdf   # Original full report
-    └── Screenshots/                              # Figures 1–13 extracted from the report
+    └── Screenshots/                              
 ```
 
 ---
