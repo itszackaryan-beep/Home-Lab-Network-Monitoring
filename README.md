@@ -309,19 +309,19 @@ All figures referenced in this report are available in [`docs/Screenshots/`](doc
 
 | Figure | File |
 |---|---|
-| Figure 1 – VMware Lab Environment (VM Library) | `docs/Screenshots/fig01-vmware-lab-environment-vm-library.jpg` |
-| Figure 2 – Windows Server Desktop | `docs/Screenshots/fig02-windows-server-desktop-server-manager.jpg` |
-| Figure 3 – Windows Version Verification | `docs/Screenshots/fig03-windows-version-verification-winver.jpg` |
-| Figure 4 – Windows Server IP Configuration | `docs/Screenshots/fig04-windows-server-ip-configuration.jpg` |
-| Figure 5 – Kali Linux IP Configuration | `docs/Screenshots/fig05-kali-linux-ip-configuration.jpg` |
-| Figure 6 – Ping Test (Kali → Windows Server) | `docs/Screenshots/fig06-ping-test-kali-to-windows-server.jpg` |
-| Figure 7 – Ping Test (Windows Server → Kali) | `docs/Screenshots/fig07-ping-test-windows-server-to-kali.jpg` |
-| Figure 8 – ICMP Packet Capture | `docs/Screenshots/fig08-icmp-packet-capture.jpg` |
-| Figure 9 – DNS Packet Capture | `docs/Screenshots/fig09-dns-packet-capture.jpg` |
-| Figure 10 – HTTP Packet Capture | `docs/Screenshots/fig10-http-packet-capture.jpg` |
-| Figure 11 – TCP Packet Capture | `docs/Screenshots/fig11-tcp-packet-capture.jpg` |
-| Figure 12 – ARP Packet Capture | `docs/Screenshots/fig12-arp-packet-capture.jpg` |
-| Figure 13 – Protocol Hierarchy Statistics | `docs/Screenshots/fig13-protocol-hierarchy-statistics.jpg` |
+| Figure 1 – VMware Lab Environment (VM Library) | `docs/fig02-windows-server-desktop-server-manager.jpg` |
+| Figure 2 – Windows Server Desktop | `docs/fig03-windows-version-verification-winver.jpg` |
+| Figure 3 – Windows Version Verification | `docs/fig04-windows-server-ip-configuration.jpg` |
+| Figure 4 – Windows Server IP Configuration | `docs/fig05-kali-linux-ip-configuration.jpg` |
+| Figure 5 – Kali Linux IP Configuration | `docs/fig06-ping-test-kali-to-windows-server.jpg` |
+| Figure 6 – Ping Test (Kali → Windows Server) | `docs/fig07-ping-test-windows-server-to-kali.jpg` |
+| Figure 7 – Ping Test (Windows Server → Kali) | `docs/fig08-icmp-packet-capture.jpg` |
+| Figure 8 – ICMP Packet Capture | `docs/fig09-dns-packet-capture.jpg` |
+| Figure 9 – DNS Packet Capture | `docs/fig10-http-packet-capture.jpg` |
+| Figure 10 – HTTP Packet Capture | `docs/fig11-tcp-packet-capture.jpg` |
+| Figure 11 – TCP Packet Capture | `docs/fig12-arp-packet-capture.jpg` |
+| Figure 12 – ARP Packet Capture | `docs/fig13-protocol-hierarchy-statistics.jpg` |
+| Figure 13 – Protocol Hierarchy Statistics | `` |
 
 ---
 
